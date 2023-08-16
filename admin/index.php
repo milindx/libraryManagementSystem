@@ -1,1 +1,2 @@
-//hello
+<?php
+header('location:../index.php');
